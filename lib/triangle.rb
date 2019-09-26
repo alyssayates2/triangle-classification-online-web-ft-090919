@@ -13,6 +13,7 @@ class Triangle
       puts "I'm not an equilateral triangle!"
     else
       puts "Hey, I'm an equilateral!"
+    end 
   end
 
 end
