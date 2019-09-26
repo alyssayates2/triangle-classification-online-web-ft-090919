@@ -15,5 +15,6 @@ class Triangle
       puts equilateral
     else
       other triangle 
+    end 
   end
 end
