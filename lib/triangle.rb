@@ -9,8 +9,10 @@ class Triangle
   end
 
   def equilateral_triangle(equilateral)
-    if equilateral_triangle[i] != equilateral
-      puts
+    if equilateral_triangle[i] != equilateral_triangle[i]
+      puts "I'm not an equilateral triangle!"
+    else
+      puts "Hey, I'm an equilateral!"
   end
 
 end
