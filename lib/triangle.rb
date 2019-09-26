@@ -9,8 +9,8 @@ class Triangle
   end
 
   def equilateral_triangle(equilateral)
-    if equilateral[i] != equilateral
-      puts
+    if equilateral_triangle[i] != equilateral
+      puts 
   end
 
 end
