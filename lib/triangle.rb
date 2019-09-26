@@ -4,6 +4,6 @@ class Triangle
   def initialization(equilateral:, isosceles:, scalene:)
     @equilateral = equilateral
     @isosceles = isosceles
-    @scalene = scalene 
+    @scalene = scalene
   end 
 end
