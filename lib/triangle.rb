@@ -11,6 +11,7 @@ class Triangle
     self.equilateral = equilateral_sides
     equilateral_sides.equilateral = self
     equilateral_sides = [num1, num2, num3]
+    equilateral_sides = num1==num2==num3
   end
 
   class TriangleError < StandardError
