@@ -11,10 +11,5 @@ class Triangle
     self.equilateral = equilateral_sides
     equilateral_sides.equilateral = self
     equilateral_sides = [num1, num2, num3]
-    if num1 == num2 == num3
-      puts equilateral
-    else
-      other triangle
-    end 
   end
 end
