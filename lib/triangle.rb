@@ -14,7 +14,7 @@ class Triangle
     if num1 == num2 == num3
       puts equilateral
     else
-      other triangle 
+      other triangle
     end 
   end
 end
