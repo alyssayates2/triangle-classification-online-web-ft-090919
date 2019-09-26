@@ -6,14 +6,11 @@ class Triangle
 
   def initialize(equilateral:)
     @equilateral = equilateral
+    equilateral_triangle = equilateral
   end
 
   def equilateral_triangle(equilateral)
-    if equilateral_triangle[0] == equilateral_triangle[1] 
-      puts "I'm an equilateral triangle!"
-    else
-      puts "I'm not an equilateral triangle!"
-    end
+    
   end
 
 end
